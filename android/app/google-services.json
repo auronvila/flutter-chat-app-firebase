@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1015412238693",
+    "firebase_url": "https://auth-project-c55c0-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "auth-project-c55c0",
+    "storage_bucket": "auth-project-c55c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015412238693:android:884716e35ee63683a7998c",
+        "android_client_info": {
+          "package_name": "com.auronvila.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015412238693-7equ9v06equmc0mg5ilsr4er1k92klfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUhhYKMWQhGhs66YOWWtgz0-Mb2ynZfp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015412238693-7equ9v06equmc0mg5ilsr4er1k92klfv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1015412238693-tmr3f9tv5grosvv9vmbu4snt8lqqi9di.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
